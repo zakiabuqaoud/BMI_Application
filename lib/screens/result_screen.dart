@@ -1,7 +1,11 @@
-import 'package:bmi_tt9/main.dart';
+
+//import from flutter
 import 'package:flutter/material.dart';
 
+//import my files
 import '../constrains.dart';
+import 'package:bmi_tt9/main.dart';
+
 
 class ResultScreen extends StatelessWidget {
   final double calc;
